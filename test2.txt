@@ -1,1 +1,2 @@
 we are inside test2.
+changes from feature2.
