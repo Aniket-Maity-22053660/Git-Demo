@@ -1,0 +1,1 @@
+Hi , we are now in text3.txt.
