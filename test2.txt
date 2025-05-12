@@ -1,2 +1,2 @@
 we are inside test2.
-Changes made inside feature1.
+changes from feature2.
